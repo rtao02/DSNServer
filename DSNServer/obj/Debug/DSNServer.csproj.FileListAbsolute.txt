@@ -1,0 +1,15 @@
+C:\Users\76744\source\repos\DSNServer\DSNServer\bin\Debug\DSNServer.exe.config
+C:\Users\76744\source\repos\DSNServer\DSNServer\bin\Debug\DSNServer.exe
+C:\Users\76744\source\repos\DSNServer\DSNServer\bin\Debug\DSNServer.pdb
+C:\Users\76744\source\repos\DSNServer\DSNServer\bin\Debug\DSNInterfaces.dll
+C:\Users\76744\source\repos\DSNServer\DSNServer\bin\Debug\SpaceCraft.dll
+C:\Users\76744\source\repos\DSNServer\DSNServer\bin\Debug\DSNInterfaces.pdb
+C:\Users\76744\source\repos\DSNServer\DSNServer\bin\Debug\SpaceCraft.pdb
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.csprojAssemblyReference.cache
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.Properties.Resources.resources
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.csproj.GenerateResource.cache
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.csproj.CoreCompileInputs.cache
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.csproj.CopyComplete
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.exe
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.pdb
+C:\Users\76744\source\repos\DSNServer\DSNServer\obj\Debug\DSNServer.DSNServerForm.resources
